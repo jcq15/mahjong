@@ -1,5 +1,5 @@
 from hnk05_hupai_abstest import HupaiCheck
-from global_data import yaojiu, qingyaojiu, jihai
+from global_data import yaojiu, qingyaojiu, jihai, windtopai
 
 
 # 6.29 2:43:fulu还是专门写出来比较好，作为可选参数带进去
